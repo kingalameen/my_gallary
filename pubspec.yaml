@@ -37,7 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.6
   shared_preferences: ^2.1.2
   image_picker: ^0.8.7+5
-  permission_handler: ^10.4.0
+  permission_handler: ^11.3.1
   path_provider: ^2.0.15
   image: ^4.0.17
 
